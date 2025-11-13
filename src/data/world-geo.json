@@ -1,0 +1,22 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","id":"USA","properties":{"name":"United States"},"d":"M130.0,230.0 L180.0,220.0 L200.0,250.0 L160.0,260.0 Z"},
+{"type":"Feature","id":"CAN","properties":{"name":"Canada"},"d":"M120.0,180.0 L200.0,170.0 L210.0,200.0 L130.0,205.0 Z"},
+{"type":"Feature","id":"MEX","properties":{"name":"Mexico"},"d":"M160.0,260.0 L200.0,250.0 L210.0,280.0 L170.0,290.0 Z"},
+{"type":"Feature","id":"BRA","properties":{"name":"Brazil"},"d":"M350.0,320.0 L390.0,330.0 L410.0,380.0 L360.0,390.0 Z"},
+{"type":"Feature","id":"ARG","properties":{"name":"Argentina"},"d":"M360.0,390.0 L410.0,380.0 L420.0,470.0 L370.0,480.0 Z"},
+{"type":"Feature","id":"GBR","properties":{"name":"United Kingdom"},"d":"M470.0,170.0 L480.0,170.0 L485.0,185.0 L470.0,185.0 Z"},
+{"type":"Feature","id":"FRA","properties":{"name":"France"},"d":"M490.0,190.0 L520.0,190.0 L525.0,210.0 L495.0,210.0 Z"},
+{"type":"Feature","id":"DEU","properties":{"name":"Germany"},"d":"M520.0,180.0 L540.0,180.0 L545.0,195.0 L525.0,195.0 Z"},
+{"type":"Feature","id":"RUS","properties":{"name":"Russia"},"d":"M600.0,120.0 L900.0,120.0 L920.0,160.0 L620.0,160.0 Z"},
+{"type":"Feature","id":"CHN","properties":{"name":"China"},"d":"M690.0,200.0 L780.0,200.0 L800.0,240.0 L700.0,240.0 Z"},
+{"type":"Feature","id":"IND","properties":{"name":"India"},"d":"M650.0,260.0 L700.0,260.0 L710.0,300.0 L660.0,300.0 Z"},
+{"type":"Feature","id":"IDN","properties":{"name":"Indonesia"},"d":"M760.0,320.0 L840.0,330.0 L845.0,340.0 L765.0,330.0 Z"},
+{"type":"Feature","id":"PAK","properties":{"name":"Pakistan"},"d":"M630.0,250.0 L650.0,250.0 L655.0,270.0 L635.0,270.0 Z"},
+{"type":"Feature","id":"BGD","properties":{"name":"Bangladesh"},"d":"M690.0,280.0 L700.0,280.0 L705.0,290.0 L695.0,290.0 Z"},
+{"type":"Feature","id":"JPN","properties":{"name":"Japan"},"d":"M830.0,230.0 L840.0,230.0 L845.0,250.0 L835.0,250.0 Z"},
+{"type":"Feature","id":"EGY","properties":{"name":"Egypt"},"d":"M560.0,260.0 L580.0,260.0 L585.0,280.0 L565.0,280.0 Z"},
+{"type":"Feature","id":"ETH","properties":{"name":"Ethiopia"},"d":"M620.0,300.0 L640.0,300.0 L645.0,320.0 L625.0,320.0 Z"},
+{"type":"Feature","id":"ZAF","properties":{"name":"South Africa"},"d":"M600.0,420.0 L640.0,420.0 L645.0,460.0 L605.0,460.0 Z"},
+{"type":"Feature","id":"TUR","properties":{"name":"Turkey"},"d":"M580.0,220.0 L620.0,220.0 L625.0,240.0 L585.0,240.0 Z"},
+{"type":"Feature","id":"MEX","properties":{"name":"Mexico"},"d":"M160.0,260.0 L200.0,250.0 L210.0,280.0 L170.0,290.0 Z"}
+]}
